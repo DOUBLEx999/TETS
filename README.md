@@ -6,10 +6,10 @@ step2 :
 pkg install git
 
 step3 :
-git clone https://github.com/DOUBLEx999/TETS.git
+pkg install python
 
 step4 :
-pkg install python
+git clone https://github.com/DOUBLEx999/TETS.git
 
 step5 :
 ls แล้วหาไฟล์ชื่อว่า TETS
