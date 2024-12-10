@@ -18,7 +18,7 @@ step6 :
 cd TETS
 
 step7 :
-pip install -r ins.txt ถ้าไม่ได้ให้ git clone https://github.com/pallets/flask.git แทน
+pip install -r ins.txt 
 
 step8 :
 python3 M.py
