@@ -1,24 +1,24 @@
-
-step1 : 
 ```bash
+step1 : 
 pkg update
+
 step2 :
-
-bash
-Copy code
 pkg install git
+
 step3 :
-
-bash
-Copy code
 git clone https://github.com/DOUBLEx999/TETS.git
+
 step4 :
+pkg install python
 
-bash
-Copy code
-ls แล้วหาไฟล์ชื่อว่า double
 step5 :
+ls แล้วหาไฟล์ชื่อว่า TETS
 
-bash
-Copy code
-cd double
+step6 :
+cd TETS
+
+step7 :
+pip install -r ins.txt
+
+step8 :
+python3 M.py
