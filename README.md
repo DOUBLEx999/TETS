@@ -1,3 +1,4 @@
+```bash
 step1 : pkg update
 step2 : pkg install git
 step3 : git clone https://github.com/DOUBLEx999/TETS.git
